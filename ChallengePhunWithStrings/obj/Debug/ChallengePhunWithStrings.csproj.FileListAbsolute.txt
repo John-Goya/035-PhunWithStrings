@@ -1,0 +1,7 @@
+C:\Users\John\Documents\Tech Academy\09 C#\21 Lesson 8 Working with Strings\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Tech Academy\09 C#\21 Lesson 8 Working with Strings\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Tech Academy\09 C#\21 Lesson 8 Working with Strings\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll.config
+C:\Users\John\Documents\Tech Academy\09 C#\21 Lesson 8 Working with Strings\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll
+C:\Users\John\Documents\Tech Academy\09 C#\21 Lesson 8 Working with Strings\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.pdb
+C:\Users\John\Documents\Tech Academy\09 C#\21 Lesson 8 Working with Strings\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.dll
+C:\Users\John\Documents\Tech Academy\09 C#\21 Lesson 8 Working with Strings\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.pdb
